@@ -5,7 +5,7 @@ import requests
 SHODAN_API_KEY = "{SHODAN API KEY}"
 api = shodan.Shodan(SHODAN_API_KEY)
 
-# Target domain
+# Target domain [ www.example.com ] 
 target = 'target domain'
 
 # Resolve the domain to an IP
