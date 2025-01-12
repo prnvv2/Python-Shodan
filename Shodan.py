@@ -1,5 +1,5 @@
 import shodan
-import requests  # Corrected the import (was `request`, should be `requests`)
+import requests 
 
 # Shodan API Key
 SHODAN_API_KEY = "{SHODAN API KEY}"
