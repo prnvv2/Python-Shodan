@@ -15,6 +15,14 @@ This project is a Python script that utilizes the [Shodan API](https://www.shoda
 ## Prerequisites
 
 - Python 3.x
+  -Ensure you have Python installed.
+    -To check if Python is installed on your system, run: 'python --version'
+    -To install python3 use 'apt install python3'
+  
 - Shodan account and API key
+  -Create a Shodan account at [Shodan](https://www.shodan.io/)
+  -After logging in, navigate to the API Keys section in your dashboard to copy your API key.
+  -Install shodan in your linux system using 'pip3 install shodan'
+  
 - Installed dependencies (`shodan` and `requests` Python modules)
 
